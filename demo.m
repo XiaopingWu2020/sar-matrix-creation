@@ -5,6 +5,7 @@
 %%%
 
 clear
+addpath('./src');
 
 % %% data prep
 % load('Duke_data_Ch_by_Ch_E_Field_for_Xiaoping.mat')
