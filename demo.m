@@ -31,10 +31,14 @@ clear
 % mdenMap= mdenMap(:,:,soi,:);
 % Rho= Rho(:,:,soi); % Rho= powerDensity/ pointSAR
 % save tissueProperties condMap mdenMap Rho
-
+% 
+% Mask= Mask(:,:,soi);
+% save Mask Mask
 %
 load('Efield.mat')
 load('tissueProperties.mat')
+load('Mask')
+
 res=1e-3*[2 2 2]; % m3
 Ng= 0.01; %kg, 10g
 
