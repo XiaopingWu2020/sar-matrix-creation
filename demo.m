@@ -4,19 +4,12 @@
 %%% Created by Xiaoping Wu, 3/5/2024
 %%%
 %%% ==================================================================
-%%% Copyright 2024 Regents of the University of Minnesota
-
-%%%   Licensed under the Apache License, Version 2.0 (the "License");
-%%%   you may not use this file except in compliance with the License.
-%%%   You may obtain a copy of the License at
-
-%%%       http://www.apache.org/licenses/LICENSE-2.0
-
-%%%   Unless required by applicable law or agreed to in writing, software
-%%%   distributed under the License is distributed on an "AS IS" BASIS,
-%%%   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-%%%   See the License for the specific language governing permissions and
-%%%   limitations under the License.
+%%% Copyright & License Notice
+%%% This software is copyrighted by the Regents of the University of Minnesota. It can be freely used for educational and research purposes by non-profit institutions and US government agencies only. 
+%%% Other organizations are allowed to use this software only for evaluation purposes, and any further uses will require prior approval. The software may not be sold or redistributed without prior approval. 
+%%% One may make copies of the software for their use provided that the copies, are not sold or distributed, are used under the same terms and conditions. 
+%%% As unestablished research software, this code is provided on an "as is" basis without warranty of any kind, either expressed or implied. 
+%%% The downloading, or executing any part of this software constitutes an implicit agreement to these terms. These terms and conditions are subject to change at any time without prior notice.
 %%% ====================================================================
 
 clear
