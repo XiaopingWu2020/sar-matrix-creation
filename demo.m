@@ -70,3 +70,8 @@ sTh={'THRESHOLD=1'}; % no edge
 NgSARmatrix.Smatrix= Sv_ave;
 NgSARmatrix.mask= mask;
 save('NgSARmatrix', 'NgSARmatrix','-v7.3');
+
+%% VOP compression
+ubp= 0.05;
+AA= find_VOPs(NgSARmatrix.Smatrix,ubp);
+save('VOPs','AA','-v7.3')
